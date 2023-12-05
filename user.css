@@ -1,0 +1,16 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,75,1) 35%, rgba(0,212,255,1) 100%);
+}
+#res{
+    padding: auto;
+    width:auto;
+}
+.d{
+    width: 300px;
+background-color:#49d2a4 ;
+}
+.list-group-item{
+    background-color:#94dcdc;
+
+}
